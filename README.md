@@ -131,6 +131,6 @@ tar -cvf demo.tar -T demo.list
     
     例如下面指令就是將檔案解壓縮到「 /home/demo」的目錄下
     
-    ```
-    tar -zxvf demo.tar.gz -C /home/demo 
-    ```
+```
+tar -zxvf demo.tar.gz -C /home/demo 
+```
